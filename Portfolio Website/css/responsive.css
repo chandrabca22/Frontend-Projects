@@ -1,0 +1,15 @@
+@media (max-width:800px){
+    .list{
+        display: none;
+    }
+}
+
+
+@media (max-width:650px){
+    .main-header{
+        flex-wrap: wrap;
+    }
+    .header-section-left-text h1{
+        font-size: 40px;
+    }
+}
