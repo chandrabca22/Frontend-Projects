@@ -1,0 +1,15 @@
+@media (max-width:600px){
+    .header-left{
+        margin: 20px 10px;
+        width: 100%;
+        max-height: 50vh;
+    }
+    .header-right{
+        margin: 0 10px;
+        width: 100%;
+        max-height: 50vh;
+    }
+    .header-right img{
+        width: 50%;
+    }
+}
