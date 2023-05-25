@@ -14,8 +14,10 @@ nav{
     height: 70px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 50px;
+    justify-content: space-around;
+}
+.bar{
+    display: none;
 }
 .logo h1{
     font-size: 30px;
