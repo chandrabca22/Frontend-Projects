@@ -93,3 +93,30 @@ nav{
     border: 2px dashed darkgray;
     border-radius: 8px;
 }
+
+/* -------------------About Section Start----------------- */
+
+.about{
+    width: 100%;
+    min-height: 100vh;
+    background-color: #ffffff;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-left img{
+    height: 90vh;
+}
+.about-right{
+    width: 700px;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+}
+.heading h1{
+    margin: 40px 0px;
+    font-size: 50px;
+}
